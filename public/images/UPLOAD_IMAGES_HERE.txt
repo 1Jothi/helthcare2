@@ -1,0 +1,24 @@
+Upload the original JPG files into this folder, keeping these exact filenames:
+
+about-commitment.jpg
+brand-emblem.jpg
+category-consumables.jpg
+category-endoscopy.jpg
+category-furniture.jpg
+category-gas.jpg
+category-icu.jpg
+category-monitor.jpg
+category-ot.jpg
+category-other.jpg
+contact-map.jpg
+contact-office.jpg
+hero-about.jpg
+hero-contact.jpg
+hero-home.jpg
+hero-services.jpg
+service-amc.jpg
+service-calibration.jpg
+service-install.jpg
+service-repair.jpg
+service-spares.jpg
+service-training.jpg
